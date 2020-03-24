@@ -1,4 +1,4 @@
-# vue-axios
+# vue authentication app
 
 ## Project setup
 ```
